@@ -7,5 +7,4 @@ const getCommonItems = (array1, array2) => {
     }, []);
 };
 
-
 export default getCommonItems;
